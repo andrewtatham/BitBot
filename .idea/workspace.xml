@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e015ae9f-6591-41aa-ae50-57ff74e77490" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/follow_light.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello_bitbot.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/buzzer_helper.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/distance_sensor.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/light_sensor_helper.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/motor_helper.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/neopixel_helper.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xyz.py" afterPath="$PROJECT_DIR$/xyz.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="xyz.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="xyz.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xyz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="2070">
+              <caret line="138" column="30" lean-forward="false" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -32,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="follow_light.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="follow_light.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/follow_light.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+            <state relative-caret-position="365">
+              <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -75,9 +74,9 @@
         <option value="$PROJECT_DIR$/distance_sensor.py" />
         <option value="$PROJECT_DIR$/buzzer_helper.py" />
         <option value="$PROJECT_DIR$/hello_bitbot.py" />
-        <option value="$PROJECT_DIR$/xyz.py" />
         <option value="$PROJECT_DIR$/examples/follow_light.py" />
         <option value="$PROJECT_DIR$/follow_light.py" />
+        <option value="$PROJECT_DIR$/xyz.py" />
       </list>
     </option>
   </component>
@@ -188,15 +187,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/motor_helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/light_sensor_helper.py">
+    <entry file="file://$PROJECT_DIR$/buzzer_helper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -212,7 +203,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/buzzer_helper.py">
+    <entry file="file://$PROJECT_DIR$/light_sensor_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motor_helper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -222,8 +221,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/neopixel_helper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -236,20 +235,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xyz.py">
+    <entry file="file://$PROJECT_DIR$/follow_light.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="365">
+          <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/follow_light.py">
+    <entry file="file://$PROJECT_DIR$/xyz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        <state relative-caret-position="2070">
+          <caret line="138" column="30" lean-forward="false" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -128,12 +128,6 @@ def single_scale(value, max_value=1.0):
     prev_np_id = np_id
 
 
-while True:
-    # dance()
-
-    # display_compass_heading()
-
-    a, b = get_buttons()
 
 
 def left(time=240, speed=1.0):
