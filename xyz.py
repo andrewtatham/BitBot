@@ -128,16 +128,12 @@ def single_scale(value, max_value=1.0):
     prev_np_id = np_id
 
 
-def forward(time=1000, speed=1.0):
-    microbit.display.show(microbit.Image.ARROW_N)
-    motors(speed, speed)
-    microbit.sleep(time)
+while True:
+    # dance()
 
+    # display_compass_heading()
 
-def reverse(time=1000, speed=1.0):
-    microbit.display.show(microbit.Image.ARROW_S)
-    motors(-speed, -speed)
-    microbit.sleep(time)
+    a, b = get_buttons()
 
 
 def left(time=240, speed=1.0):
